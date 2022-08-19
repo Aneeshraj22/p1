@@ -10,7 +10,7 @@ namespace p1
     {
         static void Main(string[] args)
         {
-            int a, b;//simple
+            int a, b;//simple program
             Console.WriteLine("enter no");
             a=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter no1");
