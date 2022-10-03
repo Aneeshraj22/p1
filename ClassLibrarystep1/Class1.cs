@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace p1
+namespace ClassLibrarystep1
 {
-    internal class Program
+    public class Class1
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
