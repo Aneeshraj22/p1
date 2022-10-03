@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _23Aug.pro6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("deptnames:");
+            string s=Console.ReadLine();
+
+            
+
+            var deptnames = (depno s);
+
+            Console.ReadKey();
+        }
+        
+    }
+      
+}
+
